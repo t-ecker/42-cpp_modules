@@ -4,3 +4,27 @@
 [submodule "cpp01"]
 	path = cpp01
 	url = https://github.com/t-ecker/cpp01.git
+[submodule "cpp02"]
+	path = cpp02
+	url = https://github.com/t-ecker/cpp02.git
+[submodule "cpp03"]
+	path = cpp03
+	url = https://github.com/t-ecker/cpp03.git
+[submodule "cpp04"]
+	path = cpp04
+	url = https://github.com/t-ecker/cpp04.git
+[submodule "cpp05"]
+	path = cpp05
+	url = https://github.com/t-ecker/cpp05.git
+[submodule "cpp06"]
+	path = cpp06
+	url = https://github.com/t-ecker/cpp06.git
+[submodule "cpp07"]
+	path = cpp07
+	url = https://github.com/t-ecker/cpp07.git
+[submodule "cpp08"]
+	path = cpp08
+	url = https://github.com/t-ecker/cpp08.git
+[submodule "cpp09"]
+	path = cpp09
+	url = https://github.com/t-ecker/cpp09.git
