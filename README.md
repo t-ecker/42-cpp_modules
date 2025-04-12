@@ -17,3 +17,12 @@ The **C++ Modules** are a series of projects designed to introduce Object-Orient
 [**Module 06**](https://github.com/t-ecker/cpp06.git): Type casting in C++: static, dynamic, const, and reinterpret casts  
 [**Module 07**](https://github.com/t-ecker/cpp07.git): Function and class templates  
 **[Module 08](https://github.com/t-ecker/cpp08.git)–[09](https://github.com/t-ecker/cpp09.git)**: Standard Template Library usage with containers, iterators, and algorithms
+
+
+>To properly clone this repository, make sure to include the `--recurse-submodules` flag, as it contains submodules:
+>```bash
+>git clone --recurse-submodules https://github.com/t-ecker/42-cpp_modules.git
+>```
+> - If you only want to see or clone a specific module, you can navigate to that module's folder here on Github and clone it individually
+
+
